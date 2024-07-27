@@ -1,2 +1,2 @@
-# sumTraget
+# sumTraget MINOR UPDATE
 firstproject 
